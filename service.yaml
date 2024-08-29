@@ -7,7 +7,6 @@ spec:
     app: personal-site
   ports:
     - protocol: TCP
-      port: 80          # The port your service will expose
-      targetPort: 3000   # The port on which your application is running inside the container
-      nodePort: 30036    # The port on the node that will expose your application (choose a port between 30000-32767)
+      port: 80
+      targetPort: 3000
   type: NodePort
