@@ -17,7 +17,7 @@ const Index = () => (
             <Link to="/">About this site</Link>
           </h2>
           <p>
-            A beautiful, responsive, s, react application
+            A beautiful, responsive, jnjknbekjfs, react application
             written with modern Javascript.
           </p>
         </div>
